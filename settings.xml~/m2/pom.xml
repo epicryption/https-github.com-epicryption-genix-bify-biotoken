@@ -1,0 +1,15 @@
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub Packages</name>
+     <url>https://maven.pkg.github.com/diamante-io/Genix-BIFY-BioTokens</url>
+   </repository>
+</distributionManagement>
+
+<dependencies>
+  <dependency>
+    <groupId>com.example</groupId>
+    <artifactId>test</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </dependency>
+</dependencies>
